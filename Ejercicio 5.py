@@ -2,9 +2,9 @@
 
 print("Ejercicio 5 \n")
 
-primerNumero=int(input("ingrese el primer numero :" ));
-segundoNumero=int(input("ingrese el segundo numero :" ));
-tercerNumero=int(input("ingrese el tercero numero :" ));
+primerNumero=int(input("ingrese el primer numero:" ));
+segundoNumero=int(input("ingrese el segundo numero:" ));
+tercerNumero=int(input("ingrese el tercero numero:" ));
 
 Numeros=[primerNumero,segundoNumero,tercerNumero]
 
@@ -23,6 +23,6 @@ for n in Numeros:
 
 rango=Mayor-Menor
             
-print("El rango es de :", rango)          
-print("El numero mayor es :" ,Mayor )  
-print("El numero menor es :" ,Menor )  
+print("El rango es:", rango)          
+print("El numero mayor es:" ,Mayor )  
+print("El numero menor es:" ,Menor )  
